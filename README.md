@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Grzegorz! 👋
 
-<!--
-**Gsujo/Gsujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Sociology & Game Design Student
 
-Here are some ideas to get you started:
+I am a passionate creator blending the understanding of human behavior with interactive entertainment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### ⚡ About Me in Code
+
+```javascript
+const grzegorz = {
+  currentRole: ["Student", "Hobbyist Developer"],
+  majors: ["Sociology", "Game Design"],
+  philosophy: "Building worlds aimed at recognition",
+  stack: ["JS", "HTML", "CSS"],
+  mission: () => {
+     return "Crafting experiences that matter.";
+  }
+}
